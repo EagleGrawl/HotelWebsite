@@ -1,0 +1,39 @@
+body{
+  background-image: url("bilder/background.jpg");
+  font-family: 'Barlow Semi Condensed','Spectral SC';
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Barlow Semi Condensed','Spectral SC';
+}
+
+p {
+  text-align: center;
+  display: block;
+  font-family: 'Barlow Semi Condensed','Spectral SC';
+}
+
+#logotype {
+  width: inherit;
+  height: inherit;
+}
+
+pre {
+ margin-top: 1em;
+}
+
+#myCarousel {
+  padding: 1.5em;
+}
+
+.Footer {
+  font-family: 'Barlow Semi Condensed','Spectral SC';
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:beige;
+  color: #333333;
+  text-align: center;
+}
